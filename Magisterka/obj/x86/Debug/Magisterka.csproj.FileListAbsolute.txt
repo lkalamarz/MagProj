@@ -1,0 +1,8 @@
+c:\users\mangol\documents\visual studio 2010\Projects\Magisterka\Magisterka\bin\Debug\Magisterka.exe
+c:\users\mangol\documents\visual studio 2010\Projects\Magisterka\Magisterka\bin\Debug\Magisterka.pdb
+c:\users\mangol\documents\visual studio 2010\Projects\Magisterka\Magisterka\obj\x86\Debug\Magisterka.Form1.resources
+c:\users\mangol\documents\visual studio 2010\Projects\Magisterka\Magisterka\obj\x86\Debug\Magisterka.Properties.Resources.resources
+c:\users\mangol\documents\visual studio 2010\Projects\Magisterka\Magisterka\obj\x86\Debug\Magisterka.csproj.GenerateResource.Cache
+c:\users\mangol\documents\visual studio 2010\Projects\Magisterka\Magisterka\obj\x86\Debug\Magisterka.exe
+c:\users\mangol\documents\visual studio 2010\Projects\Magisterka\Magisterka\obj\x86\Debug\Magisterka.pdb
+C:\Users\mangol\Documents\Visual Studio 2010\Projects\Magisterka\Magisterka\obj\x86\Debug\Magisterka.csprojResolveAssemblyReference.cache
